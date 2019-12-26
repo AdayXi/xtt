@@ -1,0 +1,4 @@
+
+scp -r back root@47.111.163.188:/root/nginx/www
+
+sanji@123!
